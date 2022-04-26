@@ -1,0 +1,15 @@
+First add the file to the project file
+
+Next import the file and add a new class (The name is not to important)
+
+from tutorial import *
+class tutorialclass:
+    tutorial = tutorialfunction <--- Function
+    
+Then add it to the 'Custom Application' list like this:
+
+custom_applications = [<Name of the class>, 'Display Name']
+
+custom_applications = [tutorialclass, 'Tutorial']
+
+Thats it!
